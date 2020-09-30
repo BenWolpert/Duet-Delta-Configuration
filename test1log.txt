@@ -1,0 +1,2 @@
+2020-02-18 16:23:41 Event logging started
+2020-02-18 16:23:45 Event logging stopped

@@ -1,0 +1,4 @@
+2020-02-18 16:23:53 Event logging started
+2020-02-18 16:23:53 HTTP client 192.168.1.135 disconnected
+2020-02-18 16:24:00 HTTP client 192.168.1.135 login succeeded
+2020-02-18 16:24:42 Event logging stopped

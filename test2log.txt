@@ -1,0 +1,31 @@
+2020-02-18 16:23:45 Event logging started
+2020-02-18 16:23:53 Event logging stopped
+2020-09-06 23:06:55 Event logging started
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:14 Error: G30: Insufficient axes homed for bed probing
+2020-09-06 23:47:33 Error: Z probe was not triggered during probing move
+2020-09-06 23:47:39 Error: Z probe was not triggered during probing move
+2020-09-06 23:47:46 Error: Z probe was not triggered during probing move
+2020-09-06 23:47:52 Error: Z probe was not triggered during probing move
+2020-09-06 23:47:59 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:06 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:12 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:18 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:24 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:30 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:36 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:42 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:48 Error: Z probe was not triggered during probing move
+2020-09-06 23:48:48 Error: Compensation or calibration cancelled due to probing errors
+2020-09-06 23:50:10 Event logging stopped
